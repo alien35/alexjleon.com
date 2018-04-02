@@ -3,134 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/posts/stellar-tutorial-issuing-assets-with-go/</loc>
+    <loc>https://alien35.github.io/posts/stellar-tutorial-issuing-assets-with-go/</loc>
     <lastmod>2018-02-13T06:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/designing-distortion-using-javascript/</loc>
+    <loc>https://alien35.github.io/posts/designing-distortion-using-javascript/</loc>
     <lastmod>2017-12-13T06:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/working-with-the-web-audio-api-debugging/</loc>
+    <loc>https://alien35.github.io/posts/working-with-the-web-audio-api-debugging/</loc>
     <lastmod>2017-12-09T06:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/adding-grid-to-your-css-arsenal/</loc>
+    <loc>https://alien35.github.io/posts/adding-grid-to-your-css-arsenal/</loc>
     <lastmod>2017-11-07T06:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/implement-social-authentication-with-react-restful-api/</loc>
+    <loc>https://alien35.github.io/posts/implement-social-authentication-with-react-restful-api/</loc>
     <lastmod>2017-11-04T05:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/ux-case-study-designing-and-audio-editing-app/</loc>
+    <loc>https://alien35.github.io/posts/ux-case-study-designing-and-audio-editing-app/</loc>
     <lastmod>2017-10-30T05:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/creating-a-scalable-api-using-node-graphql-mysql-and-nex/</loc>
+    <loc>https://alien35.github.io/posts/creating-a-scalable-api-using-node-graphql-mysql-and-nex/</loc>
     <lastmod>2017-10-21T05:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/setup-open-dns-on-your-mac/</loc>
+    <loc>https://alien35.github.io/posts/setup-open-dns-on-your-mac/</loc>
     <lastmod>2017-10-18T05:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/stellar-tutorial-making-payment-go-testnet/</loc>
+    <loc>https://alien35.github.io/posts/stellar-tutorial-making-payment-go-testnet/</loc>
     <lastmod>2017-02-11T06:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://alien35.github.io/about/</loc>
     <lastmod>2016-01-03T13:12:48+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://alien35.github.io/contact/</loc>
     <lastmod>2016-01-03T13:12:48+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/code/</loc>
+    <loc>https://alien35.github.io/code/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/concert-music/</loc>
+    <loc>https://alien35.github.io/concert-music/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/film-music/</loc>
+    <loc>https://alien35.github.io/film-music/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/music/</loc>
+    <loc>https://alien35.github.io/music/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/video-game-music/</loc>
+    <loc>https://alien35.github.io/video-game-music/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://alien35.github.io/</loc>
     <lastmod>2018-02-13T06:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://alien35.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://alien35.github.io/posts/</loc>
     <lastmod>2018-02-13T06:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://alien35.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
