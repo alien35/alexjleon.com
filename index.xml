@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander Leon</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Alexander Leon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 06:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stellar Tutorial Series: Part 2 — Issuing Assets with Go/Stellar</title>
+      <link>https://example.com/posts/stellar-tutorial-issuing-assets-with-go/</link>
+      <pubDate>Tue, 13 Feb 2018 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/stellar-tutorial-issuing-assets-with-go/</guid>
+      <description>You just bought an awesome plot of land somewhere exotic and you have enough oranges to start a business. Being the tech-savvy&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Web Audio Series, Part 2: Web Audio Series, Part 2: Designing Distortion using Javascript and the Web Audio API</title>
+      <link>https://example.com/posts/designing-distortion-using-javascript/</link>
+      <pubDate>Wed, 13 Dec 2017 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/designing-distortion-using-javascript/</guid>
+      <description>By designing distortion, I really mean designing distortion curves&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Web Audio Series, Part 1: Working with the Web Audio API: Debugging Tips</title>
+      <link>https://example.com/posts/working-with-the-web-audio-api-debugging/</link>
+      <pubDate>Sat, 09 Dec 2017 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/working-with-the-web-audio-api-debugging/</guid>
+      <description>Having the ability to visualize how your audio nodes interconnect has become&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Adding Grid to your CSS arsenal</title>
+      <link>https://example.com/posts/adding-grid-to-your-css-arsenal/</link>
+      <pubDate>Tue, 07 Nov 2017 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/adding-grid-to-your-css-arsenal/</guid>
+      <description>Grid Layout is a CSS layout method that is wildly overlooked compared to&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Implement social authentication with React &#43; RESTful API</title>
+      <link>https://example.com/posts/implement-social-authentication-with-react-restful-api/</link>
+      <pubDate>Sat, 04 Nov 2017 05:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/implement-social-authentication-with-react-restful-api/</guid>
+      <description>We’re going to implement Facebook, Google, and Twitter authentication&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>UX Case Study: Designing an Audio Editing App (explained with Don Norman’s vocabulary)</title>
+      <link>https://example.com/posts/ux-case-study-designing-and-audio-editing-app/</link>
+      <pubDate>Mon, 30 Oct 2017 05:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ux-case-study-designing-and-audio-editing-app/</guid>
+      <description>I am going to walk you through some of the design considerations&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Creating a scalable API using Node, GraphQL, MySQL, and Knex</title>
+      <link>https://example.com/posts/creating-a-scalable-api-using-node-graphql-mysql-and-nex/</link>
+      <pubDate>Sat, 21 Oct 2017 05:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/creating-a-scalable-api-using-node-graphql-mysql-and-nex/</guid>
+      <description>Imagine a new bookstore has taken up shop in your neighborhood&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Setup OpenDNS on your Mac in one minute</title>
+      <link>https://example.com/posts/setup-open-dns-on-your-mac/</link>
+      <pubDate>Wed, 18 Oct 2017 05:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/setup-open-dns-on-your-mac/</guid>
+      <description>59…58… time is ticking! 1. Go to System Preferences and&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Stellar Tutorial: Making a payment with Go on the Testnet</title>
+      <link>https://example.com/posts/stellar-tutorial-making-payment-go-testnet/</link>
+      <pubDate>Sat, 11 Feb 2017 06:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/stellar-tutorial-making-payment-go-testnet/</guid>
+      <description>Hopefully this’ll save you some time so you can move on to explore&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sun, 03 Jan 2016 13:12:48 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>About me Hi there! I&amp;rsquo;m Alex.
+I&amp;rsquo;m originally from Ecuador and for a number of reasons have had the privilege to live in wildly different places including Sweden and Costa Rica. I&amp;rsquo;m currently based in Evanston, Illinois.
+I&amp;rsquo;m a software developer at MBX Systems, a network server appliance manufacting firm, and music composer for Future History Films, a documentary film company.
+View Software CV
+
+View Music CV</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Sun, 03 Jan 2016 13:12:48 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description> My contact info Keybase: https://keybase.io/alien35
+Linkedin: https://www.linkedin.com/in/alexander-leon-6b59a0ba/
+Email: alexjleon16@gmail.com
+Feel free to reach out! </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/code/</guid>
+      <description>Some stuff I&amp;rsquo;ve written in my free time.
+Toneco (Work in progress) Toneco is an open-source digital audio workstation. So far supports MIDI.
+Tools used include Electron, React, Redux, Web Audio API.
+https://github.com/Toneco/daw
+Mail Pigeons (Alpha, last change September 2017) Mail Pigeons is a free mailing list service that offers a variety of features to gain new subscribers, manage them, and send out good-looking emails.
+Tools used include Mongo, Meteor, React.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/concert-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/concert-music/</guid>
+      <description>Concert Music Fantasia (2016) &amp;ndash; Work for piano trio  When I was first approached with the idea of writing a work for string trio, I immediately knew the danger that would ensue if I simply wrote a piece for string quartet minus the second violinist. The breadth and depth of sound is vastly different between the string quartet and trio. After experimentation I found a solution to my problem: a tremolo figure seamed throughout the work would help recreate the fourth member of the ensemble.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/film-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/film-music/</guid>
+      <description>Film Music Sprayed (2017) &amp;ndash; Film Score  As Miami residents worry about being sprayed with chemicals in the War on Zika, a journey to Brazil and Vietnam reveals new insights. Perspectives of doctors, scientists, and politicians are balanced with voices of ordinary citizens and victims to explore concerns about the potential consequences of disease control.
+Vertical Cities (2016) &amp;ndash; Film Score  A Vertical City is a series of interlinking, environmentally friendly, self-sustaining, mega towers that extend as high as a mile skyward.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/music/</guid>
+      <description>I am a conservatory-trained musician with over a decade of experience writing for film and concert settings.
+Check out my:
+ Concert Music Film Music Video Game Music  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/video-game-music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/video-game-music/</guid>
+      <description> Video Game Music Adventure  Spacy Mystery  </description>
+    </item>
+    
+  </channel>
+</rss>
