@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="61e3a670-ba8a-47c8-9123-885aeedf2f7b" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/themes/ananke/layouts/partials/svg/keybase-grey-sm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ananke" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke/layouts/_default/baseof.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/ananke/layouts/partials/menu-contextual.html" beforeDir="false" afterPath="$PROJECT_DIR$/themes/ananke/layouts/partials/menu-contextual.html" afterDir="false" />
@@ -30,7 +31,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.74370503">
+    <splitter split-orientation="horizontal" split-proportion="0.44964027">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="ux-case-study-designing-and-audio-editing-app.md" pinned="false" current-in-tab="false">
@@ -45,7 +46,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="code.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="code.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/content/code.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
@@ -55,6 +56,11 @@
                   <second_editor />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/public/index.xml">
+              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
           <file leaf-file-name="concert-music.md" pinned="false" current-in-tab="false">
@@ -130,7 +136,7 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="baseof.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="baseof.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/themes/ananke/layouts/_default/baseof.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="62">
@@ -139,11 +145,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
+          <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/config.toml">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="15">
-                  <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+                  <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
@@ -222,7 +228,6 @@
         <option value="$PROJECT_DIR$/themes/ananke/layouts/partials/site-header.html" />
         <option value="$PROJECT_DIR$/content/project.md" />
         <option value="$PROJECT_DIR$/content/projects.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/themes/ananke/exampleSite/config.toml" />
         <option value="$PROJECT_DIR$/content/posts/my-first-post.md" />
         <option value="$PROJECT_DIR$/content/posts/land-reform-revolution.md" />
@@ -251,6 +256,7 @@
         <option value="$PROJECT_DIR$/content/video-game-music.md" />
         <option value="$PROJECT_DIR$/themes/ananke/layouts/_default/baseof.html" />
         <option value="$PROJECT_DIR$/content/code.md" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -290,43 +296,7 @@
             <path>
               <item name="personal-site-hosted" type="b2602c69:ProjectViewProjectNode" />
               <item name="personal-site-hosted" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personal-site-hosted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal-site-hosted" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personal-site-hosted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal-site-hosted" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personal-site-hosted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal-site-hosted" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-              <item name="_default" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personal-site-hosted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal-site-hosted" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="personal-site-hosted" type="b2602c69:ProjectViewProjectNode" />
-              <item name="personal-site-hosted" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="ananke" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -371,24 +341,25 @@
       <workItem from="1525657892207" duration="2722000" />
       <workItem from="1525698833857" duration="1125000" />
       <workItem from="1525718974541" duration="4000" />
-      <workItem from="1525836124985" duration="1733000" />
+      <workItem from="1525836124985" duration="1949000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27096000" />
+    <option name="totallyTimeSpent" value="27312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21634954" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21634954" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37818182" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37818182" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -407,16 +378,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/content/video-game-music.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/posts/stellar-tutorial-issuing-assets-with-go.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -808,24 +769,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/ananke/layouts/_default/baseof.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -846,6 +793,23 @@
             <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/ananke/layouts/_default/baseof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="149" column="36" selection-start-line="149" selection-start-column="36" selection-end-line="149" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="16" lean-forward="true" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
