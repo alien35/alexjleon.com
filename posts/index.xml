@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Alexander Leon</title>
-    <link>https://alien35.github.io/posts/</link>
+    <link>https://alexjleon.com/posts/</link>
     <description>Recent content in Posts on Alexander Leon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Feb 2018 06:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://alien35.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alexjleon.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stellar Tutorial Series: Part 2 — Issuing Assets with Go/Stellar</title>
-      <link>https://alien35.github.io/posts/stellar-tutorial-issuing-assets-with-go/</link>
+      <link>https://alexjleon.com/posts/stellar-tutorial-issuing-assets-with-go/</link>
       <pubDate>Tue, 13 Feb 2018 06:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/stellar-tutorial-issuing-assets-with-go/</guid>
+      <guid>https://alexjleon.com/posts/stellar-tutorial-issuing-assets-with-go/</guid>
       <description>You just bought an awesome plot of land somewhere exotic and you have enough oranges to start a business. Being the tech-savvy&amp;hellip;</description>
     </item>
     
     <item>
       <title>Web Audio Series, Part 2: Web Audio Series, Part 2: Designing Distortion using Javascript and the Web Audio API</title>
-      <link>https://alien35.github.io/posts/designing-distortion-using-javascript/</link>
+      <link>https://alexjleon.com/posts/designing-distortion-using-javascript/</link>
       <pubDate>Wed, 13 Dec 2017 06:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/designing-distortion-using-javascript/</guid>
+      <guid>https://alexjleon.com/posts/designing-distortion-using-javascript/</guid>
       <description>By designing distortion, I really mean designing distortion curves&amp;hellip;</description>
     </item>
     
     <item>
       <title>Web Audio Series, Part 1: Working with the Web Audio API: Debugging Tips</title>
-      <link>https://alien35.github.io/posts/working-with-the-web-audio-api-debugging/</link>
+      <link>https://alexjleon.com/posts/working-with-the-web-audio-api-debugging/</link>
       <pubDate>Sat, 09 Dec 2017 06:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/working-with-the-web-audio-api-debugging/</guid>
+      <guid>https://alexjleon.com/posts/working-with-the-web-audio-api-debugging/</guid>
       <description>Having the ability to visualize how your audio nodes interconnect has become&amp;hellip;</description>
     </item>
     
     <item>
       <title>Adding Grid to your CSS arsenal</title>
-      <link>https://alien35.github.io/posts/adding-grid-to-your-css-arsenal/</link>
+      <link>https://alexjleon.com/posts/adding-grid-to-your-css-arsenal/</link>
       <pubDate>Tue, 07 Nov 2017 06:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/adding-grid-to-your-css-arsenal/</guid>
+      <guid>https://alexjleon.com/posts/adding-grid-to-your-css-arsenal/</guid>
       <description>Grid Layout is a CSS layout method that is wildly overlooked compared to&amp;hellip;</description>
     </item>
     
     <item>
       <title>Implement social authentication with React &#43; RESTful API</title>
-      <link>https://alien35.github.io/posts/implement-social-authentication-with-react-restful-api/</link>
+      <link>https://alexjleon.com/posts/implement-social-authentication-with-react-restful-api/</link>
       <pubDate>Sat, 04 Nov 2017 05:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/implement-social-authentication-with-react-restful-api/</guid>
+      <guid>https://alexjleon.com/posts/implement-social-authentication-with-react-restful-api/</guid>
       <description>We’re going to implement Facebook, Google, and Twitter authentication&amp;hellip;</description>
     </item>
     
     <item>
       <title>UX Case Study: Designing an Audio Editing App (explained with Don Norman’s vocabulary)</title>
-      <link>https://alien35.github.io/posts/ux-case-study-designing-and-audio-editing-app/</link>
+      <link>https://alexjleon.com/posts/ux-case-study-designing-and-audio-editing-app/</link>
       <pubDate>Mon, 30 Oct 2017 05:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/ux-case-study-designing-and-audio-editing-app/</guid>
+      <guid>https://alexjleon.com/posts/ux-case-study-designing-and-audio-editing-app/</guid>
       <description>I am going to walk you through some of the design considerations&amp;hellip;</description>
     </item>
     
     <item>
       <title>Creating a scalable API using Node, GraphQL, MySQL, and Knex</title>
-      <link>https://alien35.github.io/posts/creating-a-scalable-api-using-node-graphql-mysql-and-nex/</link>
+      <link>https://alexjleon.com/posts/creating-a-scalable-api-using-node-graphql-mysql-and-nex/</link>
       <pubDate>Sat, 21 Oct 2017 05:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/creating-a-scalable-api-using-node-graphql-mysql-and-nex/</guid>
+      <guid>https://alexjleon.com/posts/creating-a-scalable-api-using-node-graphql-mysql-and-nex/</guid>
       <description>Imagine a new bookstore has taken up shop in your neighborhood&amp;hellip;</description>
     </item>
     
     <item>
       <title>Setup OpenDNS on your Mac in one minute</title>
-      <link>https://alien35.github.io/posts/setup-open-dns-on-your-mac/</link>
+      <link>https://alexjleon.com/posts/setup-open-dns-on-your-mac/</link>
       <pubDate>Wed, 18 Oct 2017 05:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/setup-open-dns-on-your-mac/</guid>
+      <guid>https://alexjleon.com/posts/setup-open-dns-on-your-mac/</guid>
       <description>59…58… time is ticking! 1. Go to System Preferences and&amp;hellip;</description>
     </item>
     
     <item>
       <title>Stellar Tutorial: Making a payment with Go on the Testnet</title>
-      <link>https://alien35.github.io/posts/stellar-tutorial-making-payment-go-testnet/</link>
+      <link>https://alexjleon.com/posts/stellar-tutorial-making-payment-go-testnet/</link>
       <pubDate>Sat, 11 Feb 2017 06:00:00 +0000</pubDate>
       
-      <guid>https://alien35.github.io/posts/stellar-tutorial-making-payment-go-testnet/</guid>
+      <guid>https://alexjleon.com/posts/stellar-tutorial-making-payment-go-testnet/</guid>
       <description>Hopefully this’ll save you some time so you can move on to explore&amp;hellip;</description>
     </item>
     
