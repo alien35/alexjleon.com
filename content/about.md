@@ -12,7 +12,7 @@ in wildly different places including Sweden and Costa Rica. I'm currently based 
 Evanston, Illinois.
 
 
-I'm a software developer at MBX Systems, a network server appliance manufacting firm, and
+I'm a software developer at NotaryCam, a pioneering online notarization startup, and
 music composer for Future History Films, a documentary film company.
 
 <object data="myfile.pdf" type="application/pdf" width="100%" height="100%">
