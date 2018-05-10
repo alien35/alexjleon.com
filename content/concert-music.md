@@ -2,14 +2,13 @@
 
 ### Fantasia (2016) -- Work for piano trio
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235495188&amp;color=ff5500"></iframe>
+<div id="fantasia"></div>
 
 When I was first approached with the idea of writing a work for string trio, I immediately knew the danger that would ensue if I simply wrote a piece for string quartet minus the second violinist. The breadth and depth of sound is vastly different between the string quartet and trio. After experimentation I found a solution to my problem: a tremolo figure seamed throughout the work would help recreate the fourth member of the ensemble.Additionally, the tremolo figure on a string instrument is a sound I deeply cherish, with notable examples in the repertoire like Paganini's sixth Caprice. I challenged myself to work with a very limited amount of material, and the work is largely through-composed due my interest in this particular project to create a sense of perpetual natural flow and continuity. I will note that the climax of the work arrives precisely at the Golden Ratio point--a moment roughly two-thirds into the work--in order to maximize its potential effect and create an overarching naturalistic sense of structure to the composition.
 
-
 ### Rhapsody and Fugue on a Theme (2015) -- Work for solo piano
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/228233501&amp;color=ff5500"></iframe>
+<div id="rhapsody-and-fugue"></div>
 
 'What does it [the central theme] mean?' This implausible question served as the impetus of the creation of this work. The theme is transformed and recontextualized in order to dissect it and try to reveal its meaning. The rhapsody is, perhaps, the more passionate context through which the theme is observed. Spiraling massive waves are set against the theme, creating chaos and commotion as the theme rides the inflamed sea. The fugue provides an ascetic cerebral backdrop through which the theme can be more densely transfigured, examined, and re-examined. It is no longer as if watching a grand mythological figure fighting against an unconquerable tempest, but rather peering at at a small microbe through a microscope in a laboratory.
 
@@ -27,19 +26,19 @@ I reflect through this work on the song structure form as well as images of natu
 
 ### Castillo en la niebla (2015) -- Work for Large Orchestra
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/205533010&amp;color=ff5500"></iframe>
+<div id="castillo"></div>
 
 Large brush strokes are used to orchestrate a work that is centrally about structure--harmonic, motivic, and spatial structure. Thus, the 'Castle' is the metaphor for structure, and the 'Mist' is the metaphor for the large-brush-stroke approach to orchestration.
 
 ### Color Sketches (2012) -- Work for Piano Trio
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95957087&amp;color=ff5500"></iframe>
+<div id="beneath-a-crystal-moon"></div>
 
 I wrote this at the Yellow Barn Music Festival in the summer of 2012. I aimed to capture a variety of emotions and 'colors' through miniature pieces.
 
 ### Geometric Night, Three Deer (2012) -- Work for Piano
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/95809606&amp;color=ff5500"></iframe>
+<div id="geometric-night"></div>
 
 I finished writing this piece around February of 2012. I came across three deer as I was returning to my house. The gaze of one of them left a deep impression on me, and decided to begin working on the piece that moment. In this piece, I explore the angularity and simplicity of symmetry, as well as thoughts on numerology.
 

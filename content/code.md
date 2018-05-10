@@ -1,12 +1,16 @@
 Some stuff I've written in my free time.
 
-## Toneco (Work in progress)
+## Sonecu Widgets
 
-Toneco is an open-source digital audio workstation. So far supports MIDI.
+Audio widgets with cryptocurrency payments capabilities. Seen throughout this site and here: 
 
-Tools used include Electron, React, Redux, Web Audio API.
+http://www.sonecu.org
 
-https://github.com/Toneco/daw
+## Sonecu Flow
+
+Web-based audio editing workstation.
+
+https://github.com/Sonecu/flow-web
 
 ## Mail Pigeons (Alpha, last change September 2017)
 
